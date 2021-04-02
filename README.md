@@ -1,6 +1,6 @@
 # parser-nvkonline
 
-This is a parser of pages in Sakha language from the online news nvk-online.ru/.
+This is a parser of pages in Sakha language from the online news nvk-online.ru.
 
 parser_nvkonline.py - a parser
 
